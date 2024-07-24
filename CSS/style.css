@@ -7,11 +7,14 @@
     box-sizing: border-box;
 }
 
+html{
+    height: 100vh;
+}
+
 body{
     background-image: url(../IMG/pexels-photo-97906.jpeg);
     position: center;
     background-size: cover;
-    height: 100vh;
 }
 
 
